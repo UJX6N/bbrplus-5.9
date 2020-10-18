@@ -25,7 +25,7 @@ net.ipv4.tcp_congestion_control = bbrplus    or    net.ipv4.tcp_congestion_contr
 ## patch & build bbrplus kernel youself
 (or you can use releases compiled by me in "Releases" section)   
 <br/>
-*** (build requirement to GCC is >= 4.9, so GCC upgrade is needed if use CentOS 7 as builder)   ***
+***(build requirement to GCC is >= 4.9, so GCC upgrade is needed if use CentOS 7 as builder)*** 
 <br/>
 
 ### 1) get convert patch on this repository, use git or direct download
