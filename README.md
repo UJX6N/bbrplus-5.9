@@ -35,14 +35,14 @@ net.ipv4.tcp_congestion_control = bbrplus    or    net.ipv4.tcp_congestion_contr
 <br/>
 
 ### 2) download officaial linux kernel
-        say 5.9.1        
-            wget https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.9.1.tar.gz
+        say 5.9.6        
+            wget https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.9.6.tar.gz
 
 <br/>
 <br/>
 
 ### 3) extract the tarball & cd extracted directory
-        tar zxvf linux-5.9.1.tar.gz && cd linux-5.9.1
+        tar zxvf linux-5.9.6.tar.gz && cd linux-5.9.6
 
 <br/>
 <br/>
